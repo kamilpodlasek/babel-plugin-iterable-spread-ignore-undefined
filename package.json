@@ -1,0 +1,22 @@
+{
+    "name": "babel-plugin-iterable-spread-ignore-undefined",
+    "version": "1.0.0",
+    "description": "https://github.com/tc39/ecma262/issues/687",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kamilpodlasek/babel-plugin-iterable-spread-ignore-undefined.git"
+    },
+    "author": "Kamil Podlasek",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kamilpodlasek/babel-plugin-iterable-spread-ignore-undefined/issues"
+    },
+    "homepage": "https://github.com/kamilpodlasek/babel-plugin-iterable-spread-ignore-undefined#readme",
+    "devDependencies": {
+        "@babel/core": "^7.1.2"
+    }
+}
